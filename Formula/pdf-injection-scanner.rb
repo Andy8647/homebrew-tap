@@ -3,8 +3,8 @@ class PdfInjectionScanner < Formula
 
   desc "CLI tool to detect hidden prompt injection attacks in PDF files"
   homepage "https://github.com/Andy8647/pdf-injection-scanner"
-  url "https://files.pythonhosted.org/packages/source/p/pdf-injection-scanner/pdf_injection_scanner-0.1.1.tar.gz"
-  sha256 "a9ed0c5f535b80dda816d754b8e75ccc34e85078e8106a282771a1606d3a674e"
+  url "https://files.pythonhosted.org/packages/source/p/pdf-injection-scanner/pdf_injection_scanner-0.2.0.tar.gz"
+  sha256 "d8419251c5f6a093b132b8590eddbd351342f587ceb58aadef879dfcea3b7989"
   license "MIT"
 
   depends_on "python@3.13"
