@@ -8,6 +8,7 @@ class PdfInjectionScanner < Formula
   license "MIT"
 
   depends_on "python@3.13"
+  depends_on "rust" => :build
 
   resource "pdfplumber" do
     url "https://files.pythonhosted.org/packages/source/p/pdfplumber/pdfplumber-0.11.9.tar.gz"
