@@ -15,7 +15,7 @@ class PdfInjectionScanner < Formula
   end
 
   resource "pdfminer-six" do
-    url "https://files.pythonhosted.org/packages/source/p/pdfminer.six/pdfminer.six-20251230.tar.gz"
+    url "https://files.pythonhosted.org/packages/source/p/pdfminer.six/pdfminer_six-20251230.tar.gz"
     sha256 "e8f68a14c57e00c2d7276d26519ea64be1b48f91db1cdc776faa80528ca06c1e"
   end
 
